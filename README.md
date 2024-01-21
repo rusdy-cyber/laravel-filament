@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Tentang Laravel
+## Tentang Laravel • [dokumentasi penggunaan](https://github.com/rusdy-cyber/web)
 Laravel adalah kerangka aplikasi web dengan sintaksis yang ekspresif dan elegan. Kami percaya pengembangan harus menjadi pengalaman yang menyenangkan dan kreatif agar benar-benar memuaskan. Laravel menghilangkan kesulitan dalam pengembangan dengan memudahkan tugas-tugas umum yang digunakan di banyak proyek web
 
 
