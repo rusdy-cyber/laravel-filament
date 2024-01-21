@@ -52,7 +52,6 @@ return $form
 
                    
                     ]),
-            ]);
 ```
 ### membuat link untuk menampilkan gambar
 dan merubah url link pada .env ke ip dan port yang di pakai
