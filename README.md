@@ -102,5 +102,11 @@ use HasFactory;
         });
     }
 ```
+membuat agar helpers dapat di jalankan
+```
+composer dump-autoload
+```
+
+
 
 
