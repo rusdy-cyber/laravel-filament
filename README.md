@@ -80,6 +80,11 @@ return $form
                    
                     ]),
 ```
+### membuat search pada tabel panel admin
+di letakkan setelah () dan sebelum ,
+```
+->sortable()->searchable()
+```
 ### membuat link untuk menampilkan gambar
 dan merubah url link pada .env ke ip dan port yang di pakai
 ```
