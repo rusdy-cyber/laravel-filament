@@ -59,7 +59,7 @@ php artisan make:filament-resource Customer --generate
 ```
  php artisan make:filament-resource setting --simple
 ```
-action nya
+action untuk meampilkan data saat di eedit
 ```
 Tables\Actions\EditAction::make()->form(function (Setting $record){
                     switch($record->type){
