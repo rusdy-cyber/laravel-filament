@@ -59,6 +59,13 @@ php artisan make:filament-resource Customer --generate
 ```
  php artisan make:filament-resource setting --simple
 ```
+select 2 option
+```
+Forms\Components\Select::make('jenis')->options([
+                        'pengumpulan'=>'pengumpulan',
+                        'pendistribusian'=>'pendistribusian'
+                    ]),
+```
 action untuk meampilkan data saat di eedit
 ```
 Tables\Actions\EditAction::make()->form(function (Setting $record){
